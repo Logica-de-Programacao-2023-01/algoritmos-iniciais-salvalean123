@@ -1,0 +1,5 @@
+1 leia 2+3
+2 var 2
+3 var 3
+4 faca 2+3
+5 fim
