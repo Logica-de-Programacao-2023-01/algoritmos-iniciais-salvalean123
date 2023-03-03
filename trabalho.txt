@@ -1,5 +1,5 @@
-1 leia 2+3
-2 var 2
-3 var 3
-4 faca 2+3
-5 fim
+1 leia x
+2 leia y
+3 soma= X+Y
+4 z= x+y
+5 escreva z
