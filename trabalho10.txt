@@ -1,0 +1,11 @@
+1:leia lista
+2:leia peso
+3:var somatorio_elementos=0
+4:para cada elemento da lista faça:
+5:somatorios_elementos=somatorios_elementos+(elemento* 
+peso_correspondente)
+6:para cada peso dos pesos faça:
+7:somatoria_pesos=somatoria_pesos+peso
+8:resultado=somatorio_elementos/somatorio_peso
+9:escreva resultado
+
