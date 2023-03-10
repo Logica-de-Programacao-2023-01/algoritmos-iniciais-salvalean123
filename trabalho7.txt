@@ -1,0 +1,5 @@
+1:leia x
+2:para todos os valores entre 2 e x-1 faça
+3:se x dividido pelo valor atual tem resto 0:
+4:entao escreva  "nao e primo"
+5:escreva "e primo"
